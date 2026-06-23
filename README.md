@@ -21,7 +21,7 @@
 ## 📚 Relevant Publications
 
 📄 **A Multi-Electrode Sensor to Investigate Ice Formation** — I²MTC 2026
- [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://doi.org/10.58286/28116)
+ [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
 📄 **Development of a Direct Imaging Sensor for Hydrate Monitoring in Rock-Flow Cells** — ENCIT 2024
 
