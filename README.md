@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Everton Trento Junior
 
-<!--
-**EvertonTrentoJR/EvertonTrentoJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 PhD Student in Electrical Engineering at CPGEI/UTFPR
+- 🔬 Researching Hydrate Formation using Electrical Impedance Spectroscopy (EIS) in a Multi-Electrode System
+- 🖥️ Embedded Systems, EIS and Instrumentation
+- 📍 Curitiba, Paraná, Brazil
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- EIS Modeling and Fitting Algorithms
+- Electrical Impedance system characterization
+- Multi-Electrode Hydrate Sensor
+- Multi-Electrode Level Profiler
+  
+## How to reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonjunior@alunos.utfpr.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-trento-junior)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8045-3453)
+[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/8125264101828725)
