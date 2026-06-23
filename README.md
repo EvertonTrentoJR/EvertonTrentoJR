@@ -14,6 +14,6 @@
   
 ## How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonjunior@alunos.utfpr.edu.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-trento-junior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-trento-junior-8b0855163)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8045-3453)
 [![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/8125264101828725)
