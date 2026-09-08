@@ -20,6 +20,9 @@
 
 ## 📚 Relevant Publications
 
+📄 **Comparative Analysis of TOG Measurement Techniques in Salty Produced Watern** — RINENG 2026
+ [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://doi.org/10.1016/j.rineng.2026.112806)
+ 
 📄 **A Multi-Electrode Sensor to Investigate Ice Formation** — I²MTC 2026
  [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
