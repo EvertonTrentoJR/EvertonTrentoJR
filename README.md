@@ -24,7 +24,7 @@
  [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://doi.org/10.1016/j.rineng.2026.112806)
  
 📄 **A Multi-Electrode Sensor to Investigate Ice Formation** — I²MTC 2026
- [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square&logo=doi)](https://doi.org/10.1109/I2MTC66907.2026.11694700)
  
 📄 **Development of a Direct Imaging Sensor for Hydrate Monitoring in Rock-Flow Cells** — ENCIT 2024
 
