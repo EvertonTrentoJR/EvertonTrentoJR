@@ -7,10 +7,16 @@
 
 ## Current Projects
 
-- EIS Modeling and Fitting Algorithms
-- Electrical Impedance system characterization
-- Multi-Electrode Hydrate Sensor
-- Multi-Electrode Level Profiler
+![EIS Experimental Modeling](https://img.shields.io/badge/EIS-orange)
+![Experimental](https://img.shields.io/badge/Experimental-blue)
+![Modeling](https://img.shields.io/badge/Circuit_Modeling-blue)
+
+![Fitting Algorithms](https://img.shields.io/badge/Fitting-green)
+![Algorithms](https://img.shields.io/badge/Algorithms-blue)
+
+![PHOBOS](https://img.shields.io/badge/PHOBOS-Phase_Hydrate_Observation_System-blue)
+[![Brochure](https://img.shields.io/badge/Brochure-blue)](./PHOBOS_Brochure.pdf)
+
   
 ## How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonjunior@alunos.utfpr.edu.br)
